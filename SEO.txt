@@ -1,0 +1,11 @@
+﻿SEO
+
+
+A continuación enlisto las mejores prácticas SEO que implementé en el sitio web Arthropoda.
+
+
+1. Títulos a las páginas y meta descripción.
+2. Optimización de todas las imágenes del sitio.
+3. Se mejoró la experiencia de usuario haciendo uso de titulos y subtitulos
+4. Implementación de URL bien estructurada
+5. Creación original de contenido
